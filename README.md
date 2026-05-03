@@ -1,5 +1,7 @@
-I am hardworking, ambitious, courageous, intelligent, self-confident and sociable, although
-I am quiet, shy, gentle and cautious.
-I plan to work in the field of data analysis and machine learning, contributing to the development of innovative technologies both in ukrainian and global markets.
-My goal is participate in creation of software solutions that will potentially increase efficiency in the management, scientific, economic, and medical spheres of human activity.
-I believe that modern technologies can significantly improve the quality of people’s lives, and therefore I want to be a part of this process.
+I am a motivated and disciplined CompScie graduate with a strong interest in building data-driven & AI-powered systems. I combine analytical thinking with a structured, engineering-oriented approach to problem-solving.
+
+I am focused, responsible, and continuously improving my technical skills, while maintaining clear communication and the ability to work effectively both independently and in a team.
+
+My goal is to develop scalable software solutions that leverage data and artificial intelligence to improve efficiency across industries such as fintech, science, and healthcare. I am particularly interested in designing practical systems that move beyond experimentation into real-world application.
+
+I believe that modern technologies, especially data and AI, have the potential to significantly enhance the quality of life, and I am committed to contributing to this transformation through meaningful and well-engineered solutions.
